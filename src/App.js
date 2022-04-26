@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+     feature/yg
         <p>
           a Edit <code>src/App.js</code> and save to reload.fdsf
         </p>
@@ -17,7 +18,6 @@ function App() {
         >
           Learn React
         </a>
-      </header>
     </div>
   );
 }
